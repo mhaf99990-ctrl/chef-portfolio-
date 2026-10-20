@@ -6,7 +6,7 @@ FILES
 - README.txt: setup and publishing instructions.
 
 BEFORE PUBLISHING — IMPORTANT
-1. Open index.html and replace Mhaf99990@gmail.com  with your real professional email.
+1. Open index.html and replace  mailto:Mhaf99990@gmail.com?subject=Chef%20Portfolio%20Enquiry with your real professional email.
 2. In the "Behind the Plate" section, replace the placeholder with your video:
    - Upload your edited video to YouTube as Public or Unlisted.
    - Open the video on YouTube, choose Share > Embed, and copy the iframe code.
